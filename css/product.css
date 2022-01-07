@@ -1,0 +1,97 @@
+.produtos {
+    margin-bottom: 60px;
+}
+.produto1 {
+    flex-direction: row;
+    align-items: left;
+    justify-content: space-around;
+}
+.produto1-conteudo {
+    flex-direction: column;
+    gap: 80px;
+}
+.product1-img {
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.product1-orange-glass {
+    position: absolute;
+    align-items: baseline;
+    height: 352px;
+    width: 526px;
+    left: 124px;
+    /* margin-top: 3px; */
+    top: 100px;
+    float: left;
+    background-image: url(../img/Rectangle\ 33.png);
+    justify-content: space-around;
+    align-content: space-between;
+}
+.product1-black-glass {
+    display: none;
+    position: absolute;
+    align-items: baseline;
+    height: 352px;
+    width: 526px;
+    left: 124px;
+    /* margin-top: 3px; */
+    top: 100px;
+    float: left;
+    background-image: url(../img/Rectangle\ 33.png);
+    justify-content: space-around;
+    align-content: space-between;
+}
+.product1-white-glass {
+    display: none;
+    position: absolute;
+    align-items: baseline;
+    height: 352px;
+    width: 526px;
+    left: 124px;
+    /* margin-top: 3px; */
+    top: 100px;
+    float: left;
+    background-image: url(../img/Rectangle\ 33.png);
+    justify-content: space-around;
+    align-content: space-between;
+}
+.product1-title {
+        position: absolute;
+        left: 691px;
+        top: -80px;
+        color: #f15025;
+        font-family: Montserrat;
+        font-size: 51px;
+        margin-top: 15%;
+        margin-bottom: 0%;
+}
+ .product1-texto {
+    position: absolute;
+    width: 389px;
+    left: 691px;
+    top: 230px;
+    font-family: montserrat;
+    font-style: normal;
+    /*font-weight: 500;
+    font-size: ;*/
+    /* or 104% */
+    /* PRETO */
+    color: #102226;
+
+ }
+.product1-botao {
+position: absolute;
+left: 0px;
+top: 130px;
+background-color: #191919;
+width: 300px;
+height: 50px;
+border: none;
+border-radius: 15px;
+font-family: Montserrat;
+font-weight: 200px;
+font-size: 24px;
+color: #ffffff;
+margin-top: 30px;
+}
